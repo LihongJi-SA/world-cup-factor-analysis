@@ -4,3 +4,8 @@ data/group-stage/**
 !data/group-stage/manifest.csv
 data/knock-out/**
 !data/knock-out/manifest.csv
+
+# Generated modelling matrices — recreate them from data/match_features.csv
+data/data_all.csv
+data/data_group_stage.csv
+data/data_knock_out.csv
