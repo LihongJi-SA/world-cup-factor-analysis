@@ -1,0 +1,6 @@
+# Only manifest.csv is tracked from the match-report folders.
+# The 104 PMSR PDFs under them stay local and are not published.
+data/group-stage/**
+!data/group-stage/manifest.csv
+data/knock-out/**
+!data/knock-out/manifest.csv

@@ -1,0 +1,105 @@
+file,pages,home,away,home_attempts_block_pages,home_attempts,away_attempts_block_pages,away_attempts
+group-stage/group-a/M01 MEX v RSA.pdf,52,Mexico,South Africa,2,16,2,3
+group-stage/group-a/M02 KOR v CZE.pdf,52,Korea Republic,Czechia,2,15,2,7
+group-stage/group-a/M25 CZE v RSA.pdf,52,Czechia,South Africa,2,14,2,17
+group-stage/group-a/M28 MEX v KOR.pdf,52,Mexico,Korea Republic,2,8,2,9
+group-stage/group-a/M53 CZE v MEX.pdf,52,Czechia,Mexico,2,13,2,11
+group-stage/group-a/M54 RSA v KOR.pdf,52,South Africa,Korea Republic,2,13,2,8
+group-stage/group-b/M03 CAN v BIH.pdf,52,Canada,Bosnia and Herzegovina,2,13,2,8
+group-stage/group-b/M08 QAT v SUI.pdf,53,Qatar,Switzerland,2,6,3,26
+group-stage/group-b/M26 SUI v BIH.pdf,52,Switzerland,Bosnia and Herzegovina,2,13,2,5
+group-stage/group-b/M27 CAN v QAT.pdf,53,Canada,Qatar,3,33,2,2
+group-stage/group-b/M51 SUI v CAN.pdf,52,Switzerland,Canada,2,6,2,13
+group-stage/group-b/M52 BIH v QAT.pdf,52,Bosnia and Herzegovina,Qatar,2,14,2,9
+group-stage/group-c/M05 HAI v SCO.pdf,52,Haiti,Scotland,2,15,2,9
+group-stage/group-c/M07 BRA v MAR.pdf,52,Brazil,Morocco,2,12,2,14
+group-stage/group-c/M29 BRA v HAI.pdf,52,Brazil,Haiti,2,7,2,7
+group-stage/group-c/M30 SCO v MAR.pdf,52,Scotland,Morocco,2,6,2,12
+group-stage/group-c/M49 SCO v BRA.pdf,53,Scotland,Brazil,2,14,3,21
+group-stage/group-c/M50 MAR v HAI.pdf,53,Morocco,Haiti,3,22,2,9
+group-stage/group-d/M04 USA v PAR.pdf,52,USA,Paraguay,2,16,2,9
+group-stage/group-d/M06 AUS v TUR.pdf,53,Australia,Türkiye,2,9,3,30
+group-stage/group-d/M31 TUR v PAR.pdf,53,Türkiye,Paraguay,3,32,2,7
+group-stage/group-d/M32 USA v AUS.pdf,52,USA,Australia,2,10,2,5
+group-stage/group-d/M59 TUR v USA.pdf,53,Türkiye,USA,2,8,3,18
+group-stage/group-d/M60 PAR v AUS.pdf,52,Paraguay,Australia,2,7,2,12
+group-stage/group-e/M09 CIV v ECU.pdf,52,Côte d'Ivoire,Ecuador,2,15,2,12
+group-stage/group-e/M10 GER v CUW.pdf,53,Germany,Curaçao,3,26,2,8
+group-stage/group-e/M33 GER v CIV.pdf,52,Germany,Côte d'Ivoire,2,16,2,9
+group-stage/group-e/M34 ECU v CUW.pdf,53,Ecuador,Curaçao,3,27,2,10
+group-stage/group-e/M55 CUW v CIV.pdf,52,Curaçao,Côte d'Ivoire,2,11,2,7
+group-stage/group-e/M56 ECU v GER.pdf,52,Ecuador,Germany,2,7,2,11
+group-stage/group-f/M11 NED v JPN.pdf,52,Netherlands,Japan,2,10,2,9
+group-stage/group-f/M12 SWE v TUN.pdf,52,Sweden,Tunisia,2,13,2,6
+group-stage/group-f/M35 NED v SWE.pdf,52,Netherlands,Sweden,2,10,2,16
+group-stage/group-f/M36 TUN v JPN.pdf,52,Tunisia,Japan,2,2,2,10
+group-stage/group-f/M57 JPN v SWE.pdf,52,Japan,Sweden,2,8,2,11
+group-stage/group-f/M58 TUN v NED.pdf,53,Tunisia,Netherlands,2,10,3,20
+group-stage/group-g/M15 IRN v NZL.pdf,52,IR Iran,New Zealand,2,17,2,14
+group-stage/group-g/M16 BEL v EGY.pdf,52,Belgium,Egypt,2,15,2,14
+group-stage/group-g/M39 BEL v IRN.pdf,53,Belgium,IR Iran,3,23,2,7
+group-stage/group-g/M40 NZL v EGY.pdf,53,New Zealand,Egypt,2,11,3,19
+group-stage/group-g/M63 EGY v IRN.pdf,52,Egypt,IR Iran,2,15,2,13
+group-stage/group-g/M64 NZL v BEL.pdf,54,New Zealand,Belgium,2,6,4,35
+group-stage/group-h/M13 KSA v URU.pdf,53,Saudi Arabia,Uruguay,2,7,3,27
+group-stage/group-h/M14 ESP v CPV.pdf,53,Spain,Cabo Verde,3,27,2,6
+group-stage/group-h/M37 URU v CPV.pdf,52,Uruguay,Cabo Verde,2,17,2,12
+group-stage/group-h/M38 ESP v KSA.pdf,53,Spain,Saudi Arabia,3,22,2,3
+group-stage/group-h/M65 CPV v KSA.pdf,52,Cabo Verde,Saudi Arabia,2,15,2,7
+group-stage/group-h/M66 URU v ESP.pdf,52,Uruguay,Spain,2,5,2,6
+group-stage/group-i/M17 FRA v SEN.pdf,52,France,Senegal,2,11,2,6
+group-stage/group-i/M18 IRQ v NOR.pdf,52,Iraq,Norway,2,11,2,11
+group-stage/group-i/M41 NOR v SEN.pdf,52,Norway,Senegal,2,13,2,16
+group-stage/group-i/M42 FRA v IRQ.pdf,53,France,Iraq,3,19,2,4
+group-stage/group-i/M61 NOR v FRA.pdf,53,Norway,France,2,10,3,18
+group-stage/group-i/M62 SEN v IRQ.pdf,53,Senegal,Iraq,3,27,2,6
+group-stage/group-j/M19 ARG v ALG.pdf,52,Argentina,Algeria,2,10,2,7
+group-stage/group-j/M20 AUT v JOR.pdf,52,Austria,Jordan,2,10,2,11
+group-stage/group-j/M43 ARG v AUT.pdf,52,Argentina,Austria,2,12,2,6
+group-stage/group-j/M44 JOR v ALG.pdf,52,Jordan,Algeria,2,8,2,17
+group-stage/group-j/M69 ALG v AUT.pdf,52,Algeria,Austria,2,12,2,10
+group-stage/group-j/M70 JOR v ARG.pdf,52,Jordan,Argentina,2,5,2,13
+group-stage/group-k/M23 POR v COD.pdf,52,Portugal,Congo DR,2,7,2,8
+group-stage/group-k/M24 UZB v COL.pdf,52,Uzbekistan,Colombia,2,8,2,15
+group-stage/group-k/M47 POR v UZB.pdf,52,Portugal,Uzbekistan,2,17,2,7
+group-stage/group-k/M48 COL v COD.pdf,53,Colombia,Congo DR,3,20,2,7
+group-stage/group-k/M71 COL v POR.pdf,53,Colombia,Portugal,3,24,2,13
+group-stage/group-k/M72 COD v UZB.pdf,53,Congo DR,Uzbekistan,3,19,2,3
+group-stage/group-l/M21 GHA v PAN.pdf,52,Ghana,Panama,2,7,2,11
+group-stage/group-l/M22 ENG v CRO.pdf,53,England,Croatia,3,22,2,10
+group-stage/group-l/M45 ENG v GHA.pdf,53,England,Ghana,3,19,2,2
+group-stage/group-l/M46 PAN v CRO.pdf,52,Panama,Croatia,2,8,2,6
+group-stage/group-l/M67 PAN v ENG.pdf,52,Panama,England,2,13,2,17
+group-stage/group-l/M68 CRO v GHA.pdf,52,Croatia,Ghana,2,8,2,6
+knock-out/final/M104 ESP v ARG.pdf,53,Spain,Argentina,3,20,2,2
+knock-out/quarter-finals/M100 ARG v SUI.pdf,53,Argentina,Switzerland,3,22,2,11
+knock-out/quarter-finals/M97 FRA v MAR.pdf,53,France,Morocco,3,22,2,5
+knock-out/quarter-finals/M98 ESP v BEL.pdf,52,Spain,Belgium,2,17,2,5
+knock-out/quarter-finals/M99 NOR v ENG.pdf,52,Norway,England,2,13,2,14
+knock-out/round-of-16/M89 PAR v FRA.pdf,52,Paraguay,France,2,5,2,15
+knock-out/round-of-16/M90 CAN v MAR.pdf,52,Canada,Morocco,2,10,2,5
+knock-out/round-of-16/M91 BRA v NOR.pdf,52,Brazil,Norway,2,14,2,9
+knock-out/round-of-16/M92 MEX v ENG.pdf,53,Mexico,England,3,20,2,6
+knock-out/round-of-16/M93 POR v ESP.pdf,52,Portugal,Spain,2,10,2,15
+knock-out/round-of-16/M94 USA v BEL.pdf,52,USA,Belgium,2,7,2,15
+knock-out/round-of-16/M95 ARG v EGY.pdf,53,Argentina,Egypt,3,19,2,5
+knock-out/round-of-16/M96 SUI v COL.pdf,52,Switzerland,Colombia,2,7,2,15
+knock-out/round-of-32/M73 RSA v CAN.pdf,52,South Africa,Canada,2,6,2,12
+knock-out/round-of-32/M74 GER v PAR.pdf,53,Germany,Paraguay,3,21,2,7
+knock-out/round-of-32/M75 NED v MAR.pdf,52,Netherlands,Morocco,2,6,2,11
+knock-out/round-of-32/M76 BRA v JPN.pdf,53,Brazil,Japan,3,19,2,5
+knock-out/round-of-32/M77 FRA v SWE.pdf,53,France,Sweden,3,25,2,8
+knock-out/round-of-32/M78 CIV v NOR.pdf,52,Côte d'Ivoire,Norway,2,14,2,9
+knock-out/round-of-32/M79 MEX v ECU.pdf,52,Mexico,Ecuador,2,15,2,7
+knock-out/round-of-32/M80 ENG v COD.pdf,52,England,Congo DR,2,16,2,7
+knock-out/round-of-32/M81 USA v BIH.pdf,52,USA,Bosnia and Herzegovina,2,8,2,10
+knock-out/round-of-32/M82 BEL v SEN.pdf,54,Belgium,Senegal,3,19,3,19
+knock-out/round-of-32/M83 POR v CRO.pdf,52,Portugal,Croatia,2,15,2,13
+knock-out/round-of-32/M84 ESP v AUT.pdf,53,Spain,Austria,3,23,2,5
+knock-out/round-of-32/M85 SUI v ALG.pdf,52,Switzerland,Algeria,2,11,2,8
+knock-out/round-of-32/M86 ARG v CPV.pdf,53,Argentina,Cabo Verde,3,22,2,16
+knock-out/round-of-32/M87 COL v GHA.pdf,53,Colombia,Ghana,3,20,2,8
+knock-out/round-of-32/M88 AUS v EGY.pdf,52,Australia,Egypt,2,16,2,14
+knock-out/semi-finals/M101 FRA v ESP.pdf,52,France,Spain,2,10,2,10
+knock-out/semi-finals/M102 ENG v ARG.pdf,52,England,Argentina,2,5,2,15
+knock-out/third-place-play-off/M103 FRA v ENG.pdf,54,France,England,3,19,3,19
